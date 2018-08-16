@@ -1,0 +1,10 @@
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\bin\Debug\IpAddressChange.exe.config
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\obj\Debug\IpAddressChange.csprojResolveAssemblyReference.cache
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\obj\Debug\IpAddressChange.Form1.resources
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\obj\Debug\IpAddressChange.Properties.Resources.resources
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\obj\Debug\IpAddressChange.csproj.GenerateResource.Cache
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\bin\Debug\IpAddressChange.exe
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\bin\Debug\IpAddressChange.pdb
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\obj\Debug\IpAddressChange.exe
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\obj\Debug\IpAddressChange.pdb
+C:\WorkSpace\winform\IpAddressChange\IpAddressChange\bin\Debug\IpAddress.txt

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpAddressChange", "IpAddressChange\IpAddressChange.csproj", "{D459D0FF-C549-499C-BC5E-8B3B4D18EEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{007DD7C1-CFEB-4AD3-95DD-FBD6F3C72E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D459D0FF-C549-499C-BC5E-8B3B4D18EEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D459D0FF-C549-499C-BC5E-8B3B4D18EEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D459D0FF-C549-499C-BC5E-8B3B4D18EEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D459D0FF-C549-499C-BC5E-8B3B4D18EEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007DD7C1-CFEB-4AD3-95DD-FBD6F3C72E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007DD7C1-CFEB-4AD3-95DD-FBD6F3C72E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007DD7C1-CFEB-4AD3-95DD-FBD6F3C72E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007DD7C1-CFEB-4AD3-95DD-FBD6F3C72E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
